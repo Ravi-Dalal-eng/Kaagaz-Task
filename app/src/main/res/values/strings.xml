@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kaagaz Task</string>
+    <string name="take_photos">Take Photos</string>
+    <string name="click_photo">Click Photo</string>
+    <string name="album_photos">Album Photos</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="please_take_photos_to_create_an_album">Please take photos to create album...</string>
+    <string name="latest_clicked_photos">Latest Clicked Photos</string>
+</resources>
